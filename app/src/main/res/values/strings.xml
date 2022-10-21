@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="menu_image">Menu Image</string>
+    <string name="nama_menu_makanan">Nama Menu Makanan</string>
+    <string name="harga_makanan">Harga Makanan</string>
+    <string name="satuan_makanan">Satuan Makanan</string>
+</resources>
